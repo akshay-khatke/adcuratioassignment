@@ -1,4 +1,4 @@
-1)Clone project in local repository 
+1)Clone project in local repository #
 ex-git clone url
 2)open the project in VS Code
 3)Run yarn or npm install command in terminal
