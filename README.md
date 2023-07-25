@@ -1,4 +1,4 @@
-1)Clone project in local repository #
+1)Clone project in local repository 
 ex-git clone url
 2)open the project in VS Code
 3)Run yarn or npm install command in terminal
@@ -10,11 +10,3 @@ ex-git clone url
 9)open the developer menu by 3 time shaking your phone left to right developer menu appears on phone screen.
 9)click on setting->debug server host & port for device->192.168.0.***:8081 replace *** as your ip address last 3 digits
 10)Close and reopen the app.
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
